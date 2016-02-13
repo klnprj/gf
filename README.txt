@@ -1,2 +1,3 @@
 "Hello, Git"
-Hello, again 
+Hello, again
+Updating README with new information 
